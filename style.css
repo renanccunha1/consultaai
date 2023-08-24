@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+    padding: 0;
+    
+}
+
+.leftmenu {
+    display: flex;
+    flex-direction: row;
+    
+}
+
+#logo-main {
+    padding-left: 25px;
+}
+
+h4 {
+    padding-left: 75px
+}
+
+#title-main {
+    font-size: 55px;   
+}
+
+#info-emp {
+    display: flex;
+    font-size: 13px;
+}
+
+.espaço-info {
+    font-size: 13px;
+    padding-left: 70px;
+    display: flex;
+    flex-direction: row;
+}
+
+.icon {
+    padding-right: 10px;
+}
+
+#player-y {
+    display: flex;
+    padding-top: 50px; 
+    padding-left: 25px;  
+}
+
+#video-y {
+    border-radius: 10px;
+}
+
+#text-p {
+    padding-top: 150px;
+    font-size: 25px;
+}
+
+
+#testimony-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;    
+}
+
+#info-testimony {
+    display: flex;
+    flex-direction: row;
+    font-size: 15px;
+}
+
+#operation-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+}
+
+.privacity {
+    display: flex;
+}
+
+#text-privacity1 {
+    display: block;
+}
+
+#img-svg {
+    height: 200px;
+}
+
+#text-link {
+    display: flex;
+}
+
+
